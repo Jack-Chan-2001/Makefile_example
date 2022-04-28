@@ -1,5 +1,5 @@
 OBJS = main.o student.o class.o
-CPPFLAGS = -g -Wall -I ~/Documents/learn_makefile/headers
+CPPFLAGS = -g -Wall -I ~/Documents/Makefile_example/headers
 # LDFLAGS = 
 CC = g++
 VPATH = src : headers
