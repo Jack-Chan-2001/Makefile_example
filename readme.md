@@ -8,6 +8,10 @@ This is my first Makefile.
 [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/overview.html)
 
 
+# Shell
+
+Makefile 中的变量以`$`开头，为了避免和 Shell 的变量冲突，Shell 的变量以`$$`开头
+
 
 # 通配符
 
