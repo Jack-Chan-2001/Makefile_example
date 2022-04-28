@@ -1,9 +1,6 @@
 This is my first Makefile.
 
 
-
-[toc]
-
 # reference
 
 [CS193 g++ and make Guide](https://web.stanford.edu/class/cs193d/handouts/make.pdf)
