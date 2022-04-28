@@ -3,7 +3,7 @@ This is my first Makefile.
 
 # reference
 
-[CS193 g++ and make Guide](https://web.stanford.edu/class/cs193d/handouts/make.pdf)
+[CS193d g++ and make Guide](https://web.stanford.edu/class/cs193d/handouts/make.pdf)
 
 [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/overview.html)
 
